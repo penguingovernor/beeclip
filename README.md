@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/13544676/89609229-19b9f780-d82c-11ea-8dca-349f6e07b1f2.png)
 
-`BeeClip` is small abstraction layer over your operating system's clipboard CLI.
+`BeeClip` is a small abstraction layer over your operating system's clipboard CLI.
 
 ## Supported Operating Systems
 
