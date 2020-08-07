@@ -23,7 +23,7 @@ Don't forget to add `BeeClip` to your operating system's PATH variable.
 
 ### Using Go
 
-If you have the `go` binary installed on your system, you can get `BeeClip` by simply running `go install github.com/penguingovernor/beeclip`.
+If you have the `go` binary installed on your system, you can get `BeeClip` by simply running `go get -u github.com/penguingovernor/beeclip`.
 
 ## Usage
 
