@@ -45,3 +45,7 @@ $ cat file1.txt file2.txt | beeclip
 And this wouldn't be a complete `README.md` without a GIF example:
 
 ![](https://user-images.githubusercontent.com/13544676/89611200-6ce27900-d831-11ea-920a-d7040564edb6.gif)
+
+## Credits
+
+- Logo made using [logomakr](https://logomakr.com/)
