@@ -11,7 +11,7 @@ func main() {
 	// See what operation to run.
 	binary := os.Args[0]
 	op := beeclip.CopyToClipboard
-	if binary == "beepaste" {
+	if binary == "beepaste" || binary == "beepaste.exe" {
 		op = beeclip.PasteFromClipboard
 	}
 
