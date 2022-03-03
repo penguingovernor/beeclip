@@ -5,7 +5,7 @@
 *.dll
 *.so
 *.dylib
-beeclip
+/beeclip
 
 # Test binary, built with `go test -c`
 *.test

@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/13544676/89609229-19b9f780-d82c-11ea-8dca-349f6e07b1f2.png)
 
-`BeeClip` is a small abstraction layer over your operating system's clipboard CLI.
+`beeclip` is a small abstraction layer over your operating system's clipboard CLI.
 
 ## Supported Operating Systems
 
@@ -17,17 +17,21 @@
 
 ### Using GitHub Releases
 
-Download the appropriate version of `BeeClip` for your operating system and architecture on the [release page](https://github.com/penguingovernor/beeclip/releases).
+Download the appropriate version of `beeclip` for your operating system and architecture on the [release page](https://github.com/penguingovernor/beeclip/releases).
 
-Don't forget to add `BeeClip` to your operating system's PATH variable.
+Don't forget to add `beeclip` to your operating system's PATH variable.
 
 ### Using Go
 
-If you have the `go` binary installed on your system, you can get `BeeClip` by simply running `go get -u github.com/penguingovernor/beeclip`.
+If you have the `go` binary installed on your system, you can get `beeclip` by using `go get`:
+
+```shell
+go install github.com/penguingovernor/beeclip/cmd/beeclip@latest
+```
 
 ## Usage
 
-To use `BeeClip` pipe the output of your command to it.
+To use `beeclip` pipe the output of your command to it.
 
 Example:
 
